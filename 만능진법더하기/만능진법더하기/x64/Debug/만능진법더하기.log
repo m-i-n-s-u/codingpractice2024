@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\jms66\OneDrive\바탕 화면\방학코딩\만능진법더하기\만능진법더하기\main.cpp(16,22): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jms66\OneDrive\바탕 화면\방학코딩\만능진법더하기\만능진법더하기\main.cpp(25,32): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jms66\OneDrive\바탕 화면\방학코딩\만능진법더하기\만능진법더하기\main.cpp(31,37): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jms66\OneDrive\바탕 화면\방학코딩\만능진법더하기\만능진법더하기\main.cpp(37,22): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jms66\OneDrive\바탕 화면\방학코딩\만능진법더하기\만능진법더하기\main.cpp(43,32): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jms66\OneDrive\바탕 화면\방학코딩\만능진법더하기\만능진법더하기\main.cpp(49,37): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  만능진법더하기.vcxproj -> C:\Users\jms66\OneDrive\바탕 화면\방학코딩\만능진법더하기\x64\Debug\만능진법더하기.exe
